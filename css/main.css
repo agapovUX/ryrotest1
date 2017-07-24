@@ -56,7 +56,13 @@ h1 , h2 , h3 {
 }
 
 #number {
+	display: block;
 	margin-top: 40px;
+	color:white;
+}
+#email {
+	display: block;
+	color:white;
 }
 
 .company {
@@ -332,6 +338,9 @@ h1 , h2 , h3 {
 .mailphone a {
       margin-left: 10px;
       color:black;
+}
+#number_b {
+	color:black;
 }
 .eco_chist_footer {
     margin-top: 50px;
