@@ -347,6 +347,9 @@ h1 , h2 , h3 {
     .why_block {
         min-height: 250px;
     }
+	.main {
+		min-height: 450px;
+	}
     .company h2 {
     	font-size:35px;
     	font-weight: 500;
@@ -388,23 +391,3 @@ h1 , h2 , h3 {
     	font-size: 14px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
