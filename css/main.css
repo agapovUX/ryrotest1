@@ -58,12 +58,16 @@ h1 , h2 , h3 {
 	text-shadow: 2px 2px 1px rgba(0,0,0,.7);
 	letter-spacing: 1px;
 	font-size: 18px;
+    font-weight: 500;
 }
-
+.small_contacts a {
+    font-weight: 500;
+}
 #number {
 	display: block;
 	margin-top: 40px;
 	color:white;
+    font-size: 21px;
 }
 #email {
 	display: block;
@@ -88,7 +92,7 @@ h1 , h2 , h3 {
 .company h1 {
 	margin: 0;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: 500;
 	font-size: 25px;
 }
 .why_we {
