@@ -30,7 +30,7 @@ h1 , h2 , h3 {
     right: 0;
     z-index: -1;
     display: block;
-    background-image: url('../img/backgrounds/test_bg1.jpg');
+    background-image: url('../img/backgrounds/main.jpg');
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
